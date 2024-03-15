@@ -114,6 +114,7 @@ After editing the required list click on Edit Product as shown in the below.
 
 
 After clicking on the edit product the edited version of the product is added, where the stock quantity is increased from 1 to 17.
+
 ![image](https://github.com/gayathri19113/Project_ERP/assets/163413220/f0684120-befc-4d4e-ac72-37dfe0f50ebc)
 
 
@@ -127,6 +128,7 @@ After deleting, we can see the following page:
 
 Order Management:
 Now, click on orders management which is presented at the top right as shown by the arrow, in the below figure.
+
 ![image](https://github.com/gayathri19113/Project_ERP/assets/163413220/7dd06748-7cc9-4227-93d2-90a78fae5ee2)
 
   
@@ -140,5 +142,11 @@ You can add orders using Add Order button after filling all the requirements.
 
 After clicking on Add Order the newly added order will be displayed on the page.
 Here, the newly added order is ORD5HDR (order ID).
+
 ![image](https://github.com/gayathri19113/Project_ERP/assets/163413220/451f5e39-9212-46bb-a7e8-3b49d9e72bda)
 
+
+
+Hosted on github: 
+
+https://gayathri19113.github.io/Project_ERP
