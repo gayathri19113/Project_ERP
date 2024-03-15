@@ -47,43 +47,43 @@ You don’t have to ever use eject. The curated feature set is suitable for smal
 
 Cloning the Project Repository and Navigating to the Directory:
 
-clone the project repository from GitHub
+1.clone the project repository from GitHub
 
            git clone https://github.com/gayathri19113/Project_ERP.git 
 
-Navigate to the project directory:
+2.Navigate to the project directory:
 
            cd Project_ERP
 
+
 Instructions For Setting Up And Interacting With The Website
 
-Website Setup:
+	Website Setup:
 
-Open your web browser and navigate to the website's URL.
-Once open in, you'll land on the homepage with dashboard link.
+•	Open your web browser and navigate to the website's URL.
+•	Once open in, you'll land on the homepage with dashboard link.
 
-Navigating the Website:
+	Navigating the Website:
 
-Use the navigation links provided to explore different sections of the website, such as Products, Orders, or Dashboard.
-Click on each section to view more details or perform specific actions.
+•	Use the navigation links provided to explore different sections of the website, such as Products, Orders, or Dashboard.
+•	Click on each section to view more details or perform specific actions.
 
-Dashboard:
+	Dashboard:
 
-The dashboard provides a high-level overview of the system.
-It displays key metrics like total products and orders.
-Navigation buttons are available to access the Products Management and Orders Management sections.
+•	The dashboard provides a high-level overview of the system.
+•	It displays key metrics like total products and orders.
+•	Navigation buttons are available to access the Products Management and Orders Management sections.
 
-Products Management:
+	Products Management:
 
-This section lists all products with details like name, category, price, and stock quantity.
-You can perform the following actions:
-Add Product: Create a new product by providing details and submitting the form.
-Edit Product: Click the edit button for an existing product, modify the details, and save the changes.
-Delete Product: Click the delete button for a product to remove it from the list.
+•	This section lists all products with details like name, category, price, and stock quantity.
+•	You can perform the following actions:
+o	Add Product: Create a new product by providing details and submitting the form.
+o	Edit Product: Click the edit button for an existing product, modify the details, and save the changes.
+o	Delete Product: Click the delete button for a product to remove it from the list.
 
-Orders Management:
-
-This section displays a list of orders with details like ID, customer name, date, and status
+	Orders Management:
+•	This section displays a list of orders with details like ID, customer name, date, and status
 
 
 Hosted on github: 
