@@ -86,12 +86,18 @@ Orders Management:
 This section displays a list of orders with details like ID, customer name, date, and status
 
 
+Hosted on github: 
+
+https://gayathri19113.github.io/Project_ERP
+
+
 Output (Screenshots):
 
 Dashboard:
 
 After running the code you will be directed to the dashboard page.Click on the dashboard to overview the summary.
-![image](https://github.com/gayathri19113/Project_ERP/assets/163413220/72239d48-40d2-490a-a72e-2ee648b65743)
+![image](https://github.com/gayathri19113/Project_ERP/assets/163413220/b109a1fd-a4c2-4331-82a2-24c593220798)
+
 
 
 
@@ -152,6 +158,3 @@ Here, the newly added order is ORD5HDR (order ID).
 
 
 
-Hosted on github: 
-
-https://gayathri19113.github.io/Project_ERP
