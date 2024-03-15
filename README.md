@@ -83,8 +83,11 @@ Instructions For Setting Up And Interacting With The Website
 •	This section lists all products with details like name, category, price, and stock quantity.
 
 •	You can perform the following actions:
+
 o	Add Product: Create a new product by providing details and submitting the form.
+
 o	Edit Product: Click the edit button for an existing product, modify the details, and save the changes.
+
 o	Delete Product: Click the delete button for a product to remove it from the list.
 
 	Orders Management:
