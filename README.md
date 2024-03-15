@@ -5,7 +5,6 @@ Overview:
 This is the frontend application for a simplified ERP system. It provides user-friendly interfaces for managing key aspects of a business, products and order managements.
 
 Features:
-
 Dashboard: Display summary metrics and quick navigation to other sections.
 
 Products management: Add, edit and delete products with relevant details
@@ -48,6 +47,7 @@ You don’t have to ever use eject. The curated feature set is suitable for smal
 Cloning the Project Repository and Navigating to the Directory:
 
 clone the project repository from GitHub
+
            git clone https://github.com/gayathri19113/Project_ERP.git 
 
 Navigate to the project directory:
