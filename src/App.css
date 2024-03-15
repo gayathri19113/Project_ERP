@@ -1,0 +1,86 @@
+  /* Global styles */
+  body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    
+  }
+
+  /* App container */
+  .container {
+    margin: 20px;
+  }
+
+  /* Navbar */
+  .navbar {
+    background-color: #0004ff;
+    padding: 10px 20px;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+
+  .navbar-brand {
+    font-size: 24px;
+    color: #fff;
+    text-decoration: none;
+  }
+
+  .navbar-brand:hover {
+    text-decoration: none;
+  }
+
+  .navbar-menu {
+    display: flex;
+  }
+
+  .navbar-start {
+    display: flex;
+  }
+
+  .navbar-item {
+    color: #fff;
+    margin-right: 20px;
+    text-decoration: none;
+    font-size: 18px;
+  }
+
+  .navbar-item:hover {
+    text-decoration: underline;
+  }
+
+  /* App header */
+  .App-header {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+  }
+
+  /* Logo animation */
+  @media (prefers-reduced-motion: no-preference) {
+    .App-logo {
+      height: 40vmin;
+      animation: App-logo-spin infinite 20s linear;
+    }
+  }
+
+  @keyframes App-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+
+  /* Gradient background */
+  body {
+    background: radial-gradient(circle, #ffffff, #cccccc);
+
+
+  }

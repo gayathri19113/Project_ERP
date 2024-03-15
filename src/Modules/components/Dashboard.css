@@ -1,0 +1,46 @@
+.dashboard-container {
+    background-color: #f8f9fa; /* Light gray background */
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add shadow for depth */
+    text-align: center;
+    max-width: 600px;
+    margin: 100px auto; /* Center horizontally and give vertical margin */
+    position: relative; /* Set position to relative to contain the absolute positioned image */
+}
+
+.dashboard-title {
+    color: #007bff; /* Blue color for title */
+    margin-bottom: 20px;
+    font-weight: bold; /* Make the title bold */
+    font-size: 24px; /* Increase the font size */
+}
+
+.dashboard-description {
+    color: #495057; /* Dark gray color for description */
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+.dashboard-features {
+    list-style-type: none;
+    padding: 0;
+}
+
+.dashboard-features li {
+    margin-bottom: 10px;
+}
+
+.dashboard-cta {
+    color: #28a745; /* Green color for call-to-action */
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.dashboard-loaded {
+    background-image: url('https://img.freepik.com/free-vector/site-stats-concept-illustration_114360-1509.jpg?t=st=1710393931~exp=1710397531~hmac=829faa84d993ac7d18aa7e3fec991838d6f89a842c3799df3ea5091b359461bc&w=740');
+    background-size: 310px; /* Ensure the image covers the area */
+    background-repeat: no-repeat; /* Prevent the image from repeating */
+    background-position: right center; /* Position the image to the top right corner */
+}
