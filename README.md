@@ -90,8 +90,12 @@ Output (Screenshots):
 
 Dashboard:
 
-After running the code you will be directed to the dashboard page.
-Navigate to the Dashboard to view summary metrics and access other sections like product management and orders management.
+After running the code you will be directed to the dashboard page.Click on the dashboard to overview the summary.
+
+
+
+After clicking on dashboard you will be Navigated to the Dashboard to view summary metrics and access other sections like product management and orders management.
+
 ![image](https://github.com/gayathri19113/Project_ERP/assets/163413220/fb21e246-5b91-4661-84f7-59ea0b813e3b)
 
 
