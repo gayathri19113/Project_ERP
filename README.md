@@ -6,8 +6,10 @@ This is the frontend application for a simplified ERP system. It provides user-f
 
 Features:
 
-Dashboard: Display summary metrics and quick navigation to other sections. 
+Dashboard: Display summary metrics and quick navigation to other sections.
+
 Products management: Add, edit and delete products with relevant details
+
 Orders management: View orders with details such as order ID, customer name, order date and status.
 
 Installation:
