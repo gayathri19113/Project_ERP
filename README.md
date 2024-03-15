@@ -96,7 +96,8 @@ Output (Screenshots):
 Dashboard:
 
 After running the code you will be directed to the dashboard page.Click on the dashboard to overview the summary.
-![image](https://github.com/gayathri19113/Project_ERP/assets/163413220/b109a1fd-a4c2-4331-82a2-24c593220798)
+![image](https://github.com/gayathri19113/Project_ERP/assets/163413220/0ed04899-6290-4f31-8500-de5dbed37550)
+
 
 
 
