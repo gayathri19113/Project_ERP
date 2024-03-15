@@ -1,9 +1,11 @@
 ERP System
 
 Overview:
+
 This is the frontend application for a simplified ERP system. It provides user-friendly interfaces for managing key aspects of a business, products and order managements.
 
 Features:
+
 Dashboard: Display summary metrics and quick navigation to other sections. 
 Products management: Add, edit and delete products with relevant details
 Orders management: View orders with details such as order ID, customer name, order date and status.
@@ -11,13 +13,21 @@ Orders management: View orders with details such as order ID, customer name, ord
 Installation:
 
 In the project directory, you can run:
+
 npm install
+
 Install the dependencies
+
 npm start
+
 Runs the app in the development mode.
+
 Open http://localhost:3000 to view it in the browser.
+
 The page will reload if you make edits.
+
 You will also see any lint errors in the console.
+
 npm test
 Launches the test runner in the interactive watch mode.
 See the section about running tests for more information.
@@ -37,25 +47,30 @@ Cloning the Project Repository and Navigating to the Directory:
 
 clone the project repository from GitHub
            git clone https://github.com/gayathri19113/Project_ERP.git 
+
 Navigate to the project directory:
            cd Project_ERP
 
 Instructions For Setting Up And Interacting With The Website
 
 Website Setup:
+
 Open your web browser and navigate to the website's URL.
 Once open in, you'll land on the homepage with dashboard link.
 
 Navigating the Website:
+
 Use the navigation links provided to explore different sections of the website, such as Products, Orders, or Dashboard.
 Click on each section to view more details or perform specific actions.
 
 Dashboard:
+
 The dashboard provides a high-level overview of the system.
 It displays key metrics like total products and orders.
 Navigation buttons are available to access the Products Management and Orders Management sections.
 
 Products Management:
+
 This section lists all products with details like name, category, price, and stock quantity.
 You can perform the following actions:
 Add Product: Create a new product by providing details and submitting the form.
@@ -63,12 +78,14 @@ Edit Product: Click the edit button for an existing product, modify the details,
 Delete Product: Click the delete button for a product to remove it from the list.
 
 Orders Management:
+
 This section displays a list of orders with details like ID, customer name, date, and status
 
 
 Output (Screenshots):
 
 Dashboard:
+
 After running the code you will be directed to the dashboard page.
 Navigate to the Dashboard to view summary metrics and access other sections like product management and orders management.
 ![image](https://github.com/gayathri19113/Project_ERP/assets/163413220/fb21e246-5b91-4661-84f7-59ea0b813e3b)
