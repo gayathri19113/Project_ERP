@@ -98,7 +98,7 @@ o	Delete Product: Click the delete button for a product to remove it from the li
 
 Hosted on github: 
 
-https://gayathri19113.github.io
+https://gayathri19113.github.io/Project_ERP
 
 
 
